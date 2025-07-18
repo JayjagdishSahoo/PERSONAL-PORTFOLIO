@@ -20,7 +20,10 @@ Welcome to my personal portfolio! This website showcases who I am, the projects 
 
 🛠️ Tech Stack
 
-Frontend:
+Frontend:-
+<img width="1912" height="922" alt="Image" src="https://github.com/user-attachments/assets/db13cb53-f704-4ae1-a24f-53dc38d4b2ed" />
+<img width="1905" height="850" alt="Image" src="https://github.com/user-attachments/assets/ae8d255f-0ab8-4433-9191-917db0278b2e" />
+<img width="810" height="767" alt="Image" src="https://github.com/user-attachments/assets/4963d99f-78ff-4254-b395-54e708c6287f" />
 
     HTML5
     CSS3 / TailwindCSS / Sass
